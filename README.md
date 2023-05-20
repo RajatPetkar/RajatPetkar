@@ -1,4 +1,4 @@
-![logo](https://github.com/RajatPetkar/RajatPetkar/blob/main/1673505067521.jpg)
+![logo](https://github.com/RajatPetkar/RajatPetkar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rajat Petkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
