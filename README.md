@@ -1,6 +1,6 @@
 ![logo](https://github.com/RajatPetkar/RajatPetkar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rajat Petkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 <br>
 <br>
 
@@ -13,6 +13,8 @@
 - 💬 Ask me about **react, react-native**
 
 - 📫 How to reach me **rajatpetkar250@gmail.com**
+
+- Contact no - 8421689721
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
