@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rajatpetkar250@gmail.com**
 
-- Contact no - 8421689721
+- 📱 Contact no - 8421689721
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
