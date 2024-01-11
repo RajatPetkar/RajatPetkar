@@ -38,8 +38,12 @@
 
 <h4 align="center">Top Languages</h4>
 <br>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatpetkar&show_icons=true&locale=en&layout=compact" alt="rajatpetkar" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatpetkar&show_icons=true&locale=en&layout=compact&theme=gotham" alt="rajatpetkar" />
+</p>
 <br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatpetkar&show_icons=true&locale=en" alt="rajatpetkar" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
