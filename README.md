@@ -36,9 +36,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RajatPetkar&count_private=true&show_icons=true&theme=gotham" /></p>
 <br>
 
-<h4 align="center">Profile stats</h4>
+<h4 align="center">Top Languages</h4>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajatPetkar&" alt="rajatpetkar" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatpetkar&show_icons=true&locale=en&layout=compact" alt="rajatpetkar" /></p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
