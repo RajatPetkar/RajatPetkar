@@ -31,12 +31,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{RajatPetkar}/count.svg" alt="Visitor's count" /></p>
 <br>
 
-<p align="center">
-  <a href="https://github.com/RajatPetkat">
-    <img title="GithubStats" alt="streak" src="https://streak-stats.demolab.com?user=RajatPetkar&theme=gotham&hide_border=true&mode=weekly"/>
-  </a>
-</p>
-
 <h4 align="center">Profile stats</h4>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RajatPetkar&count_private=true&show_icons=true&theme=gotham" /></p>
