@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **rajatpetkar250@gmail.com**
 
-- 📱 Contact no - 8421689721
+- ![ErenYeagerGIF](https://github.com/user-attachments/assets/ea9bb8d1-6dcc-4fbf-ab2b-b20c65cd163c) AOT 💖
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
