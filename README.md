@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rajatpetkar250@gmail.com**
 
-- AOT 💖
+-  AOT 💖
 
 
 <h3 align="left">Connect with me:</h3>
