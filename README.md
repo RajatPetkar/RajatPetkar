@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/4XJK04-9ZdsAAAAM/eren-eren-yeager.gif">
 
-- 🌱 I’m currently learning **Machine Learning & Algorithms**
+- 🌱 I’m currently learning **Cloud Computing(AWS) && DSA**
 
 - 👨‍💻 All of my projects are available at [https://rajat-petkar.netlify.app/](https://rajat-petkar.netlify.app/)
 
