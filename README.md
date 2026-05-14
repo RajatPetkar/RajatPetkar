@@ -40,7 +40,7 @@ interests: [Anime, Chess, Gym, Bhagavad Gita 📖]
 ```
 
 > *"The fruit of your actions should not be your motivation — but you should never abandon action."*
-> — Bhagavad Gita
+> — Bhagavad Gita (Although Atheist but this quote hits different)
 
 ---
 
