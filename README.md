@@ -1,51 +1,173 @@
-![logo](https://github.com/RajatPetkar/RajatPetkar/blob/main/banner.jpg)
-<h1 align="center">Hi 👋, I'm Rajat Petkar</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-<br>
-<br>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/4XJK04-9ZdsAAAAM/eren-eren-yeager.gif">
+```
+██████╗  █████╗      ██╗ █████╗ ████████╗
+██╔══██╗██╔══██╗     ██║██╔══██╗╚══██╔══╝
+██████╔╝███████║     ██║███████║   ██║   
+██╔══██╗██╔══██║██   ██║██╔══██║   ██║   
+██║  ██║██║  ██║╚█████╔╝██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝  
+```
 
-- 🌱 I’m currently learning **Cloud Computing(AWS) && DSA**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://rajat-petkar.netlify.app/](https://rajat-petkar.netlify.app/)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Java+%7C+Cloud+Computing;SIH+Hackathon+Winner+%F0%9F%8F%86;PICT+Pune+%7C+Computer+Engineering;Attack+on+Titan+Fan+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</div>
 
-- 💬 Ask me about **react, react-native**
+<br/>
 
-- 📫 How to reach me **rajatpetkar250@gmail.com**
+<div align="center">
+  <img src="https://media.tenor.com/4XJK04-9ZdsAAAAM/eren-eren-yeager.gif" width="280" alt="Eren Yeager"/>
+</div>
 
--  AOT 💖
+<br/>
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajat_2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajat_2907" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajat-petkar-515416223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajat-petkar-515416223/" height="30" width="40" /></a>
-<a href="https://instagram.com/rajat_petkar_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat_petkar_in" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rajat_petkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajat_petkar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajatpetkar250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajatpetkar250" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/RajatPetkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajatpetkar" height="30" width="40" /></a>
-<a href="https://www.chess.com/member/rajatgpetkar" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xgLcDiVC8pJD2whaFbg5_l8xcISdG3AgWg&s" alt="rajat_petkar_chess" height="30" width="40" /></a>
-</p>
-</p>
+## 🧠 About Me
 
-<p align="center">Visitors Count 👀</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{RajatPetkar}/count.svg" alt="Visitor's count" /></p>
-<br>
+```yaml
+name: Rajat Petkar
+location: Pune, Maharashtra, India 🇮🇳
+college: PICT Pune (3rd Year — Computer Engineering)
+currently_learning: [Cloud Computing (AWS), DSA, System Design]
+ask_me_about: [React, React Native, Node.js, Java, MongoDB]
+contact: rajatpetkar250@gmail.com
+portfolio: https://rajat-petkar.netlify.app/
+achievement: 🏆 Smart India Hackathon (SIH) Winner — Dec 2023
+interests: [Anime, Chess, Gym, Bhagavad Gita 📖]
+```
 
-<h4 align="center">Profile stats</h4>
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RajatPetkar&count_private=true&show_icons=true&theme=gotham" /></p>
-<br>
+> *"The fruit of your actions should not be your motivation — but you should never abandon action."*
+> — Bhagavad Gita
 
-<h4 align="center">Top Languages</h4>
-<br>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatpetkar&show_icons=true&locale=en&layout=compact" alt="rajatpetkar" />
-</p>
-<br>
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<br>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+## 🏆 Highlights
 
+| 🎓 Education | 💼 Experience | 🏅 Achievement |
+|---|---|---|
+| PICT Pune — CE (3rd Year) | Internship @ Automation Manifold (Java/Swing) | SIH 2023 Winner |
+| Diploma in IT | MERN Stack Projects | Full Stack Developer |
 
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajatPetkar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatPetkar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajatPetkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajatPetkar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajatPetkar/RajatPetkar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajatPetkar/RajatPetkar/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/RajatPetkar/RajatPetkar/output/github-snake.svg" />
+  </picture>
+
+</div>
+
+> **Note:** To activate the snake, add this GitHub Action to your repo:
+> `.github/workflows/snake.yml` — see [platane/snk](https://github.com/platane/snk) for setup instructions.
+
+---
+
+## 🎯 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/RajatPetkar)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rajatpetkar250)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rajat_petkar)
+
+</div>
+
+---
+
+## ♟️ Chess
+
+<div align="center">
+
+[![Chess.com](https://img.shields.io/badge/Chess.com-81b64c?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/rajatgpetkar)
+
+*"Chess is life in miniature. Chess is a struggle, chess battles."*
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rajat-petkar.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-petkar-515416223/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajat_2907)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajat_petkar_in)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatpetkar250@gmail.com)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RajatPetkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+
+**⚡ "Shikata ga nai" — but I'll keep coding anyway.**
+
+*Built with ❤️ and way too much caffeine from Pune, India*
+
+</div>
