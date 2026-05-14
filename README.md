@@ -101,23 +101,6 @@ interests: [Anime, Chess, Gym, Bhagavad Gita 📖]
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajatPetkar/RajatPetkar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajatPetkar/RajatPetkar/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RajatPetkar/RajatPetkar/output/github-snake.svg" />
-  </picture>
-
-</div>
-
-> **Note:** To activate the snake, add this GitHub Action to your repo:
-> `.github/workflows/snake.yml` — see [platane/snk](https://github.com/platane/snk) for setup instructions.
-
----
-
 ## 🎯 Competitive Programming
 
 <div align="center">
