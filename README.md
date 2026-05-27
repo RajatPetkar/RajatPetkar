@@ -118,6 +118,8 @@ interests: [Anime, Chess, Gym, Bhagavad Gita 📖]
 <div align="center">
 
 [![Chess.com](https://img.shields.io/badge/Chess.com-81b64c?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/rajatgpetkar)
+[![Chess.com](https://img.shields.io/badge/Chess.com-81b64c?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/rajat_petkar_in)
+
 
 *"Chess is life in miniature. Chess is a struggle, chess battles."*
 
