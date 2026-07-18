@@ -30,7 +30,7 @@
 ```yaml
 name: Rajat Petkar
 location: Pune, Maharashtra, India 🇮🇳
-college: PICT Pune (3rd Year — Computer Engineering)
+college: PICT Pune (4th Year — Computer Engineering)
 currently_learning: [Cloud Computing (AWS), DSA, System Design]
 ask_me_about: [React, React Native, Node.js, Java, MongoDB]
 contact: rajatpetkar250@gmail.com
@@ -40,7 +40,7 @@ interests: [Anime, Chess, Gym, Bhagavad Gita 📖]
 ```
 
 > *"The fruit of your actions should not be your motivation — but you should never abandon action."*
-> — Bhagavad Gita (Although Atheist but this quote hits different)
+> — Bhagavad Gita
 
 ---
 
@@ -48,7 +48,7 @@ interests: [Anime, Chess, Gym, Bhagavad Gita 📖]
 
 | 🎓 Education | 💼 Experience | 🏅 Achievement |
 |---|---|---|
-| PICT Pune — CE (3rd Year) | Internship @ Automation Manifold (Java/Swing) | SIH 2023 Winner |
+| PICT Pune — CE (4th Year) | Internship @ Automation Manifold (Java/Swing) | SIH 2023 Winner |
 | Diploma in IT | MERN Stack Projects | Full Stack Developer |
 
 ---
