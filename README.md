@@ -32,11 +32,11 @@ name: Rajat Petkar
 location: Pune, Maharashtra, India 🇮🇳
 college: PICT Pune (4th Year — Computer Engineering)
 currently_learning: [Cloud Computing (AWS), DSA, System Design]
-ask_me_about: [React, React Native, Node.js, Java, MongoDB]
+ask_me_about: [React, React Native, Node.js, Java, MongoDB, RAG]
 contact: rajatpetkar250@gmail.com
 portfolio: https://rajat-petkar.netlify.app/
-achievement: 🏆 Smart India Hackathon (SIH) Winner — Dec 2023
-interests: [Anime, Chess, Gym, Bhagavad Gita 📖]
+achievement: 🥇 Smart India Hackathon (SIH) Winner — Dec 2023 , 🥈 TechFiesta 2025 Runner Up
+interests: [Anime, Chess, Badminton, Gym, Bhagavad Gita 📖]
 ```
 
 > *"The fruit of your actions should not be your motivation — but you should never abandon action."*
